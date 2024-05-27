@@ -10,15 +10,12 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
+<img src="https://www.codewars.com/users/TurriAF/badges/large" alt="TurriAF Codewars Badge">
 <br />
 <br />
 
 I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
-
-I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
-
 <br />
 I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
 <br />
@@ -29,10 +26,10 @@ Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TurriAF&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="TurriAF Github Stats">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurriAF&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="TurriAF Top Languages"/>
 <br />
 <br />
 <br />
