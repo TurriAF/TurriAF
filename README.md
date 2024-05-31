@@ -14,7 +14,9 @@
 <img src="https://www.codewars.com/users/TurriAF/badges/large" alt="TurriAF Codewars Badge">
 <br />
 <br />
-
+<img src="https://www.hackthebox.com/badge/image/512759" alt="TurriAF HTB Badge">
+<br />
+<br />
 Actualmente estoy estudiando el grado superior de Desarrollo de Aplicaciones Web en Medac. Durante este tiempo he podido aprender los fundamentos de varios lenguajes de programación como Java, Python y JavaScript, además de Html y Css como lenguajes de marcado y diseño.
 <br />
 <br />
