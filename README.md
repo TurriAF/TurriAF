@@ -28,4 +28,6 @@ Me apasiona analizar el comportamiento de los sistemas, encontrar sus vulnerabil
 <img src="https://www.codewars.com/users/TurriAF/badges/large" alt="TurriAF Codewars Badge">
 
 <img src="https://www.hackthebox.com/badge/image/512759" alt="TurriAF HTB Badge">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurriAF&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="TurriAF Top Languages"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
