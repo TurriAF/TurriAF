@@ -1,67 +1,28 @@
-<div align="center">
-<h2>¡Hola, Bienvenido/a a mi perfil de GitHub! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<a href="https://linkedin.com/in/david-aguilar-fernández" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Turri_3960" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/david_agf_22" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<br />
-<br />
-<img src="https://www.codewars.com/users/TurriAF/badges/large" alt="TurriAF Codewars Badge">
-<br />
-<br />
-<img src="https://www.hackthebox.com/badge/image/512759" alt="TurriAF HTB Badge">
-<br />
-<br />
-Actualmente estoy estudiando el grado superior de Desarrollo de Aplicaciones Web en Medac. Durante este tiempo he podido aprender los fundamentos de varios lenguajes de programación como Java, Python y JavaScript, además de Html y Css como lenguajes de marcado y diseño.
-<br />
-<br />
-Debido a mi pasión por la programación, intento aprender y mejorar tanto académicamente como profesionalmente en este ámbito.
-<br />
-<br />
+# 💫 Sobre mi:
+Soy un desarrollador de software apasionado por la tecnología con formación en Desarrollo de Aplicaciones Web, habiendo finalizado el Grado Superior en esta especialidad, donde he adquirido conocimientos sólidos en tecnologías del desarrollo web como HTML, CSS, JavaScript, PHP, MySQL, Active Directory, así como en programación orientada a objetos con Java. gestión de bases de datos, despliegue de aplicaciones y desarrollo de interfaces.
 
-Si tienes alguna duda o te interesan mis capacidades como programador para cualquier proyecto.<br />
-Por favor, <a href="mailto:david34512@gmail.com"><b>envíame un email</b></a>.
-<br />
-<br />
+Mi objetivo profesional es especializarme en el ámbito de la ciberseguridad, con un enfoque en el pentesting web. Actualmente me estoy preparando para la certificación eJPT (eLearnSecurity Junior Penetration Tester) y estoy formándome de una manera autodidacta practicando técnicas como SQL Injection, Cross-Site Scripting (XSS), Local File Inclusion, Pivoting, XML External Entity (XXE) y otras vulnerabilidades comunes en aplicaciones web.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TurriAF&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="TurriAF Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurriAF&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="TurriAF Top Languages"/>
-<br />
-<br />
-<br />
-
-**¡Muchas gracias por leerme!** 😊
-
-</div>
-
-<div align="center">
-
-## Herramientas que utilizo actualmente 🛠️
-
-<br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40"  alt="HTML"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40"  alt="CSS"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40"  alt="JavaScript"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40"  alt="MongoDB"></a>
-<a margin="10" href="https://www.java.com/es/" target="_blank"><img margin="10px" height="40"  alt="Java"></a>
-<a margin="10" href="https://www.python.org" target="_blank"><img margin="10px" height="40"  alt="Python"></a>
-</div>
-<br />
-<br />
-
-<div align="center">
-<br />
-
-## Últimos proyectos 🧑‍💻
+Me apasiona analizar el comportamiento de los sistemas, encontrar sus vulnerabilidades y entender cómo protegerlos
 
 
-</div>
+## 🌐 Redes Sociales:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david_agf_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-aguilar-fern%C3%A1ndez-52836b248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:david34512@gmail.com) 
+
+# 💻 Stack Dev:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 Github Estadísticas:
+![](https://github-readme-stats.vercel.app/api?username=TurriAF&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TurriAF&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TurriAF&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trofeos
+![](https://github-profile-trophy.vercel.app/?username=TurriAF&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Frase aleatoria de un desarrollador
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=TurriAF&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
