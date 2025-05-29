@@ -22,12 +22,12 @@ Me apasiona analizar el comportamiento de los sistemas, encontrar sus vulnerabil
 ### ✍️ Frase aleatoria de un desarrollador
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### ⚔️ Puntuación CodeWars
+<img src="https://www.codewars.com/users/TurriAF/badges/large" alt="TurriAF Codewars Badge">
+
+### 🎯 Rango HackTheBox
+<img src="https://www.hackthebox.com/badge/image/512759" alt="TurriAF HTB Badge">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=TurriAF&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://www.codewars.com/users/TurriAF/badges/large" alt="TurriAF Codewars Badge">
-
-<img src="https://www.hackthebox.com/badge/image/512759" alt="TurriAF HTB Badge">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurriAF&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="TurriAF Top Languages"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
